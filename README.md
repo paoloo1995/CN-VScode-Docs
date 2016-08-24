@@ -148,5 +148,6 @@ Visual Studio Code 是微软推出的跨平台编辑器。它采用经典的VS�
 - [Cherry Mill Wong](http://http://123.206.79.144/)
 - [bjrxyz](https://github.com/bjrxyz)
 - [avaicode](https://github.com/avaicode)
+- [paoloo1995](https://github.com/paoloo1995)
 
 （Fork 之后自行添加到最后）
